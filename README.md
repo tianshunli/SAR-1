@@ -1,2 +1,1 @@
-# SAR-1
- 
+A text relating the group description
